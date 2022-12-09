@@ -1,0 +1,161 @@
+/* body{
+    background-color: rgb(77, 5, 77);
+} */
+
+#letterOne{
+    background-color: rgb(114, 19, 158);
+}
+#vv{
+    color: red;
+    font-family: cursive;
+    margin-left: 600px;
+    font-weight: bold;
+}
+.aa{
+    margin-top: 50px;
+    /* background-color: red; */
+    height: 150px;
+    display: inline-block;
+    border-radius: 10px;
+
+}
+.aa :hover{
+    color: seashell;
+}
+button{
+    background-color: rgb(51, 156, 204);
+    margin-left: 500px;
+    margin-top: 30px;
+    width: 50px;
+    height: 30px;
+    border: none;
+    font-weight: bold;
+    
+}
+button :hover{
+    color: seashell;;
+}
+#edx{
+    color: seashell;
+}   
+#ab{
+    margin-left: 130px;
+    width: 200px;
+    background-color: rgb(204, 61, 109);
+    border: none;
+    font-weight: bold;
+    border-radius: 7px;
+    
+}
+#ac{
+    width: 200px;
+    background-color: rgb(36, 158, 206);
+    border: none;
+    margin-left: 400px;
+    font-weight: bold;
+    border-radius: 7px;
+}
+
+#letterTwo{
+    display: none;
+    margin-left: 50px;
+    background-image: url(../img/flooo.jpg);
+    background-repeat: no-repeat;
+    background-position: 350px; 
+}
+#letterThree{
+    display: none;
+    margin-left: 70px;
+    background-image: url(../img/flooo.jpg);
+    background-repeat: no-repeat;
+    background-position: 350px;   
+}
+.vq{
+    font-weight: bolder;
+    color: red;
+    font-style: unset;
+    font-size: 40px;
+}
+.def{
+    width: 100px;
+    border-radius: 7px;
+}
+#wee{
+    display: none;
+}
+.texxt{
+    color: red;
+    font-weight: bold;
+    font-size: 20px;
+    background-color: snow;
+    width: 130px;
+    margin-left: 2px;
+}
+#finalLetter{
+    display: none;
+    background-color: black;
+}
+
+/* MALE-DIVS */
+
+#weed{
+    display: none;
+}
+#weer{
+    display: none;
+}
+#wees{
+    display: none;
+}
+#weem{
+    display: none;
+}
+
+/* FEMALE-DIVS */
+
+#allis{
+    display: none;
+}
+#lyd{
+    display: none;
+}
+#kor{
+    display: none;
+}
+#mal{
+    display: none;
+}
+#hw{
+    margin-left: 450px;
+    font-size: 40px;
+    font-weight: bolder;
+    color: seashell;
+}
+#xcs{
+    margin-left: 500px;
+    color: whitesmoke;
+    font-weight: bold;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 140px;
+    margin-left: 150px;
+    text-align: center;
+}
+#opp{
+    margin-top: -40px;
+    margin-left: 430px;
+    color: rgb(134, 128, 134);
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.eea{
+    color: red;
+    
+}
+#formal{
+    border-style: solid groove;
+    height: 405px;
+    width: 500px;
+    margin-left: 400px;
+    background-color: black(218, 9, 9);
+}
